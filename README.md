@@ -16,6 +16,10 @@ cd tcn
 pip install -r requirements.txt
 ```
 
+Plotly JupyterLab Support (Python 3.5+)
+
+> https://plotly.com/python/getting-started/
+
 ### Links
 
 > https://towardsdatascience.com/farewell-rnns-welcome-tcns-dd76674707c8
